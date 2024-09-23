@@ -1,4 +1,4 @@
-# KyleCrosby
+# Kyle Crosby
 # 💫 About Me:
 🌍  Based in Notre Dame, Indiana<br>✉️  You can contact me at acrosby2@nd.edu<br>🚀  I'm currently working on Neural Network Transformer research<br>🧠  I'm learning Java<br>🤝  I'm open to collaborating on any projects!
 
